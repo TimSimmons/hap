@@ -1,0 +1,3 @@
+package: github.com/TimSimmons/hap
+import:
+- package: github.com/olekukonko/tablewriter
